@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
+title:  "Mom Life"
+author: Brenda Michelle
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
